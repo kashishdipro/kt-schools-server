@@ -3,7 +3,6 @@
       "id": "6359a155a327bb12a101295b",  
       "course_id": "1",
       "name": "HTML",
-      "image": "https://images.unsplash.com/photo-1518773553398-650c184e0bb3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
       "description": "The language for building web pages",
       "keys": [
         "HTML stands for Hyper Text Markup Language",
@@ -18,7 +17,6 @@
       "id": "6359a155a327cc12a101295b",
       "course_id": "2",
       "name": "CSS",
-      "image": "https://images.unsplash.com/photo-1524666643752-b381eb00effb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80",
       "description": "The language for styling web pages",
       "keys": [
         "CSS stands for Cascading Style Sheets",
@@ -31,7 +29,6 @@
       "id": "6359a155a327bb12a101285a",
       "course_id": "3",
       "name": "JavaScript",
-      "image": "https://images.unsplash.com/photo-1593720216276-0caa6452e004?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=956&q=80",
       "description": "The language for programming web pages",
       "keys": [
         "JavaScript is the world's most popular programming language",
@@ -46,7 +43,6 @@
       "id": "6359a155a327bb12a178295b",
       "course_id": "4",
       "name": "Python",
-      "image": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=869&q=80",
       "description": "A popular programming language",
       "keys": [
         "Python is a popular programming language",
@@ -62,7 +58,6 @@
       "id": "6229a155a327bb12a101295b",
       "course_id": "5",
       "name": "SQL",
-      "image": "https://images.unsplash.com/photo-1518773553398-650c184e0bb3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
       "description": "A language for accessing databases",
       "keys": [
         "SQL stands for Structured Query Language",
@@ -84,7 +79,6 @@
       "id": "6359a155a117bb12a101295b",
       "course_id": "6",
       "name": "PHP",
-      "image": "https://images.unsplash.com/photo-1556792189-55769c8dfbac?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=869&q=80",
       "description": "A web server programming language",
       "keys": [
         "PHP is an acronym for 'PHP: Hypertext Preprocessor'",
