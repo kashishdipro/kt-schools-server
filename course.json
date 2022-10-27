@@ -1,0 +1,96 @@
+[
+    {
+      "id": "6359a155a327bb12a101295b",  
+      "course_id": "1",
+      "name": "HTML",
+      "image": "https://images.unsplash.com/photo-1518773553398-650c184e0bb3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+      "description": "The language for building web pages",
+      "keys": [
+        "HTML stands for Hyper Text Markup Language",
+        "HTML is the standard markup language for creating Web pages",
+        "HTML describes the structure of a Web page",
+        "HTML consists of a series of elements",
+        "HTML elements tell the browser how to display the content",
+        "HTML elements label pieces of content such as 'this is a heading', this is a paragraph, 'this is a link', etc."
+      ]
+    },
+    {
+      "id": "6359a155a327cc12a101295b",
+      "course_id": "2",
+      "name": "CSS",
+      "image": "https://images.unsplash.com/photo-1524666643752-b381eb00effb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80",
+      "description": "The language for styling web pages",
+      "keys": [
+        "CSS stands for Cascading Style Sheets",
+        "CSS describes how HTML elements are to be displayed on screen, paper, or in other media",
+        "CSS saves a lot of work. It can control the layout of multiple web pages all at once",
+        "External stylesheets are stored in CSS files"
+      ]
+    },
+    {
+      "id": "6359a155a327bb12a101285a",
+      "course_id": "3",
+      "name": "JavaScript",
+      "image": "https://images.unsplash.com/photo-1593720216276-0caa6452e004?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=956&q=80",
+      "description": "The language for programming web pages",
+      "keys": [
+        "JavaScript is the world's most popular programming language",
+        "JavaScript is the programming language of the Web",
+        "JavaScript is easy to learn",
+        "JavaScript and Java are completely different languages, both in concept and design",
+        "JavaScript was invented by Brendan Eich in 1995, and became an ECMA standard in 1997",
+        "ECMA-262 is the official name of the standard. ECMAScript is the official name of the language"
+      ]
+    },
+    {
+      "id": "6359a155a327bb12a178295b",
+      "course_id": "4",
+      "name": "Python",
+      "image": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=869&q=80",
+      "description": "A popular programming language",
+      "keys": [
+        "Python is a popular programming language",
+        "It was created by Guido van Rossum, and released in 1991",
+        "Python can be used on a server to create web applications",
+        "Python can be used alongside software to create workflows",
+        "Python can connect to database systems. It can also read and modify files",
+        "Python can be used to handle big data and perform complex mathematics",
+        "Python can be used for rapid prototyping, or for production-ready software development"
+      ]
+    },
+    {
+      "id": "6229a155a327bb12a101295b",
+      "course_id": "5",
+      "name": "SQL",
+      "image": "https://images.unsplash.com/photo-1518773553398-650c184e0bb3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+      "description": "A language for accessing databases",
+      "keys": [
+        "SQL stands for Structured Query Language",
+        "SQL lets you access and manipulate databases",
+        "SQL became a standard of the American National Standards Institute (ANSI) in 1986, and of the International Organization for Standardization (ISO) in 1987",
+        "SQL can execute queries against a database",
+        "SQL can retrieve data from a database",
+        "SQL can insert records in a database",
+        "SQL can update records in a database",
+        "SQL can delete records from a database",
+        "SQL can create new databases",
+        "SQL can create new tables in a database",
+        "SQL can create stored procedures in a database",
+        "SQL can create views in a database",
+        "SQL can set permissions on tables, procedures, and views"
+      ]
+    },
+    {
+      "id": "6359a155a117bb12a101295b",
+      "course_id": "6",
+      "name": "PHP",
+      "image": "https://images.unsplash.com/photo-1556792189-55769c8dfbac?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=869&q=80",
+      "description": "A web server programming language",
+      "keys": [
+        "PHP is an acronym for 'PHP: Hypertext Preprocessor'",
+        "PHP is a widely-used, open source scripting language",
+        "PHP scripts are executed on the server",
+        "PHP is free to download and use"
+      ]
+    }
+]
